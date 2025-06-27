@@ -2219,7 +2219,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "33"
 			(at 181.61 96.6032 90)
 			(effects
 				(font
